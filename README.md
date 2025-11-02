@@ -1,6 +1,13 @@
 # 🤖 Refold MCP Server Integration (Bring Your Own Agent)
 
-This repository demonstrates how to integrate **Refold’s MCP (Model Context Protocol)** Server into your existing agent infrastructure using **Google’s Agent Development Kit (ADK)**.
+
+> **🔍 Looking for TypeScript/JavaScript examples?**  
+> This repository contains the **Python** implementation. For TypeScript/JavaScript examples, please navigate to the [`js-sdk` branch](https://github.com/gocobalt/refold-mcp-byoa/tree/js-sdk).
+
+---
+
+This repository demonstrates how to integrate **Refold's MCP (Model Context Protocol)** Server into your existing agent infrastructure using **Google's Agent Development Kit (ADK)**.
+
 
 With this project, you can **bring your own agent (BYOA)** — built using Google ADK or any compatible framework — and extend it using Refold’s powerful MCP capabilities for enterprise-grade reasoning, orchestration, and integrations.
 
